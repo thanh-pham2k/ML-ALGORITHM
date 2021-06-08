@@ -1,7 +1,7 @@
 # ML-ALGORITHM
 implement different algorithms using core python.
 
-# SVM
+# SVM ALGORITHM
 
 ## KEY IDEA
 
@@ -21,3 +21,7 @@ reference: https://machinelearningcoban.com/2017/04/09/smv/
 ## MULTICLASS
 
 ## SOME CONCEPTS MATHEMATICS RELEVANT
+
+# CLUSTERING ALGORITHM
+
+## KMEANS
